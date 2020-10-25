@@ -56,7 +56,7 @@ const main = async () => {
                 sameSite: "lax", // csrf
             },
             saveUninitialized: false,
-            secret: "ddwdwewqe9qweqeqweedq2e",
+            secret: "qowiueojwojfalksdjoqiwueo",
             resave: false,
         })
     );
